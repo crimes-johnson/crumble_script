@@ -1,6 +1,9 @@
 # crumble_script
 A short and sweet *Apple* MacBook testing script. Most useful for pulling specifications from large quantities of machines or batch testing hardware.
 
+![image](https://user-images.githubusercontent.com/79986025/166068469-7fcca6ad-f7e6-455f-9644-0a507b06973d.png)
+
+
 Features:\
 Complete specification pull including CPU/GPU/RAM/Storage + Activation lock status, Serial Number, Last Boot Diagnostic result, battery health, etc.\
 Tree menus - only want to pull specs? Choose option 1! Skip straight to hardware testing? No problem!\
