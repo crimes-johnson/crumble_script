@@ -8,7 +8,7 @@
 #Set filename and time stamp
 DATE=$(date +%d%b%Y)
 TS=$(date)
-echo "Please enter the Scan ID of the unit you are testing."
+echo "Please enter the inventory tag of the unit you are testing."
 read FILE
 touch "$FILE"_"$DATE.txt"
 
