@@ -9,7 +9,7 @@ Complete specification pull including CPU/GPU/RAM/Storage + Activation lock stat
 Tree menus - only want to pull specs? Choose option 1! Skip straight to hardware testing? No problem!\
 Automatically opens hardware testing applications on the web and from the machine. Camera, microphone, speakers, keyboard, etc.\
 Time/date stamping on file creation that logs system info and testing results.\
-Feel free to modify this script as much as needed. Looking for an iMac or Mac Pro script of the same kind? Check out cobbler_script:
+Feel free to modify this script as much as needed. Looking for an iMac or Mac Pro script of the same kind? Check out cobbler_script: [here](https://github.com/crimes-johnson/cobbler_script)
 
 How to:\
     <code>cd /path/to/script</code>\
